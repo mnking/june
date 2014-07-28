@@ -1,7 +1,7 @@
 {
-	"name": "laravel/laravel",
-	"description": "The Laravel Framework.",
-	"keywords": ["framework", "laravel"],
+	"name": "mnking/june",
+	"description": "The June Framework Base On Laravel.",
+	"keywords": ["framework", "June"],
 	"license": "MIT",
 	"require": {
 		"laravel/framework": "4.2.*"
