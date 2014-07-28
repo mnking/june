@@ -7,8 +7,7 @@
     "version": "1.0.0",
 	"require": {
         "php": ">=5.4.0",
-		"laravel/framework": "4.2.*",
-        "composer/composer": "~1.0"
+		"laravel/framework": "4.2.*"
 	},
     "autoload": {
         "files": [
