@@ -12,5 +12,6 @@
         "files": [
             "june/core/Function.php"
         ]
-    }
+    },
+    "minimum-stability": "dev"
 }
