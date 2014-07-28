@@ -3,6 +3,8 @@
 	"description": "The June Framework Base On Laravel.",
 	"keywords": ["framework", "June"],
 	"license": "MIT",
+    "type" : "project",
+    "version": "1.0",
 	"require": {
         "php": ">=5.4.0",
 		"laravel/framework": "4.2.*",
