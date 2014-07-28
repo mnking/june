@@ -4,15 +4,13 @@
 	"keywords": ["framework", "June"],
 	"license": "MIT",
 	"require": {
-		"laravel/framework": "4.2.*"
+        "php": ">=5.4.0",
+		"laravel/framework": "4.2.*",
+        "composer/composer": "~1.0"
 	},
     "autoload": {
         "files": [
             "june/core/Function.php"
         ]
-    },
-	"config": {
-		"preferred-install": "dist"
-	},
-	"minimum-stability": "stable"
+    }
 }
