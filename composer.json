@@ -1,0 +1,19 @@
+{
+	"name": "mnking/june",
+	"description": "The June Framework Base On Laravel.",
+	"keywords": ["framework", "June"],
+	"license": "MIT",
+    "type" : "project",
+    "version": "1.0.0",
+	"require": {
+        "php": ">=5.4.0",
+		"laravel/framework": "4.2.*",
+        "Chumper/Zipper": "dev-master"
+	},
+    "autoload": {
+        "files": [
+            "june/core/Function.php"
+        ]
+    },
+    "minimum-stability": "dev"
+}
